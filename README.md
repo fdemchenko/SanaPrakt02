@@ -15,3 +15,5 @@
 - [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконав: Демченко Філіпп
