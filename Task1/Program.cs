@@ -9,8 +9,8 @@ namespace Task1
             Console.WriteLine("DDT");
             Console.WriteLine("DDT");
             Console.WriteLine("DDT");
-            Console.WriteLine("Sana Commerce Software Development Bootcamp");
-            Console.WriteLine("Sana Commerce Software Development Bootcamp");
+            Console.WriteLine("Can you reverse a binary tree?");
+            Console.WriteLine("Sorry, I just want to code in HTML and CSS");
         }
     }
 }
