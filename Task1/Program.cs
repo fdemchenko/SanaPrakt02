@@ -6,9 +6,9 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sana Commerce Software Development Bootcamp");
-            Console.WriteLine("Sana Commerce Software Development Bootcamp");
-            Console.WriteLine("Sana Commerce Software Development Bootcamp");
+            Console.WriteLine("DDT");
+            Console.WriteLine("DDT");
+            Console.WriteLine("DDT");
             Console.WriteLine("Sana Commerce Software Development Bootcamp");
             Console.WriteLine("Sana Commerce Software Development Bootcamp");
         }
